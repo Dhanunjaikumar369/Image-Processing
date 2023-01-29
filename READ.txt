@@ -1,0 +1,2 @@
+Consists of all my Image processing projects. 
+Have applied some basic Computer vision stuff such as Filtering, Convolving, Correlating, Edge detection etc using Open CV 2
